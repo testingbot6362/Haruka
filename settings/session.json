@@ -1,1 +1,7 @@
-Taro session lu disini
+{
+ "clientID": "PG+QloMSOEkOtqxgJWA3+Q==",
+ "serverToken": "1@YuMLj62BlNFGWcZ1claDgNiwCx9FDKjkwkBNuBYpGNzvEs3+dZp8XraeYnkZzeEECa0DZsvaktmw9w==",
+ "clientToken": "ABdXxzawOsjSGjrg2Jd/vrFw/3XrdNSaPtsKcjuTcAI=",
+ "encKey": "/VuTryxxkf+F4E58DSzKUTjiZyKlB5dAVzr02JOXUPE=",
+ "macKey": "dfnXIoUAyuO2XuMaTDTujdwX1AltOoAJhRxyYWXFXsc="
+}
